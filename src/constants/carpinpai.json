@@ -1,0 +1,388 @@
+[{
+  "title": "A",
+  "items": [{
+    "value": 9,
+    "label": "奥迪"
+  }, {
+    "value": 81,
+    "label": "安凯"
+  }]
+}, {
+  "title": "B",
+  "items": [{
+    "value": 2,
+    "label": "别克"
+  }, {
+    "value": 3,
+    "label": "宝马"
+  }, {
+    "value": 4,
+    "label": "本田"
+  }, {
+    "value": 5,
+    "label": "标致"
+  }, {
+    "value": 26,
+    "label": "比亚迪"
+  }, {
+    "value": 41,
+    "label": "奔驰"
+  }, {
+    "value": 59,
+    "label": "北奔重卡"
+  }, {
+    "value": 65,
+    "label": "保时捷"
+  }, {
+    "value": 87,
+    "label": "宝骏"
+  }, {
+    "value": 88,
+    "label": "北汽威旺"
+  }, {
+    "value": 92,
+    "label": "北京"
+  }, {
+    "value": 107,
+    "label": "北汽制造"
+  }, {
+    "value": 167,
+    "label": "北方客车"
+  }, {
+    "value": 191,
+    "label": "宾利"
+  }]
+}, {
+  "title": "C",
+  "items": [{
+    "value": 34,
+    "label": "长城"
+  }, {
+    "value": 38,
+    "label": "长安"
+  }, {
+    "value": 52,
+    "label": "昌河"
+  }, {
+    "value": 71,
+    "label": "长丰猎豹"
+  }, {
+    "value": 75,
+    "label": "长安轿车"
+  }]
+}, {
+  "title": "D",
+  "items": [{
+    "value": 1,
+    "label": "大众"
+  }, {
+    "value": 25,
+    "label": "东风"
+  }, {
+    "value": 37,
+    "label": "东南"
+  }, {
+    "value": 83,
+    "label": "大宇"
+  }, {
+    "value": 144,
+    "label": "道奇"
+  }, {
+    "value": 155,
+    "label": "大运汽车"
+  }]
+}, {
+  "title": "F",
+  "items": [{
+    "value": 6,
+    "label": "丰田"
+  }, {
+    "value": 7,
+    "label": "福特"
+  }, {
+    "value": 23,
+    "label": "菲亚特"
+  }, {
+    "value": 39,
+    "label": "福田"
+  }, {
+    "value": 121,
+    "label": "福迪"
+  }]
+}, {
+  "title": "G",
+  "items": [{
+    "value": 89,
+    "label": "广汽传祺"
+  }, {
+    "value": 113,
+    "label": "广汽吉奥"
+  }]
+}, {
+  "title": "H",
+  "items": [{
+    "value": 29,
+    "label": "海马"
+  }, {
+    "value": 35,
+    "label": "哈飞"
+  }, {
+    "value": 46,
+    "label": "皇冠"
+  }, {
+    "value": 56,
+    "label": "海格"
+  }, {
+    "value": 60,
+    "label": "华菱星马汽车"
+  }, {
+    "value": 62,
+    "label": "黄海汽车"
+  }, {
+    "value": 97,
+    "label": "华普"
+  }, {
+    "value": 230,
+    "label": "红旗"
+  }]
+}, {
+  "title": "J",
+  "items": [{
+    "value": 19,
+    "label": "吉利"
+  }, {
+    "value": 24,
+    "label": "吉利帝豪"
+  }, {
+    "value": 28,
+    "label": "金杯"
+  }, {
+    "value": 31,
+    "label": "江淮"
+  }, {
+    "value": 48,
+    "label": "JMC"
+  }, {
+    "value": 68,
+    "label": "吉利全球鹰"
+  }, {
+    "value": 69,
+    "label": "吉普"
+  }, {
+    "value": 117,
+    "label": "捷豹"
+  }, {
+    "value": 136,
+    "label": "江南"
+  }, {
+    "value": 176,
+    "label": "九龙"
+  }]
+}, {
+  "title": "K",
+  "items": [{
+    "value": 50,
+    "label": "凯马"
+  }, {
+    "value": 66,
+    "label": "凯迪拉克"
+  }, {
+    "value": 96,
+    "label": "开瑞"
+  }, {
+    "value": 112,
+    "label": "克莱斯勒"
+  }]
+}, {
+  "title": "L",
+  "items": [{
+    "value": 22,
+    "label": "雷克萨斯"
+  }, {
+    "value": 27,
+    "label": "铃木"
+  }, {
+    "value": 44,
+    "label": "力帆"
+  }, {
+    "value": 47,
+    "label": "雷诺"
+  }, {
+    "value": 70,
+    "label": "路虎"
+  }, {
+    "value": 90,
+    "label": "陆风"
+  }, {
+    "value": 122,
+    "label": "莲花"
+  }]
+}, {
+  "title": "M",
+  "items": [{
+    "value": 10,
+    "label": "马自达"
+  }, {
+    "value": 49,
+    "label": "MG 名爵"
+  }]
+}, {
+  "title": "N",
+  "items": [{
+    "value": 108,
+    "label": "纳智捷"
+  }]
+}, {
+  "title": "O",
+  "items": [{
+    "value": 95,
+    "label": "欧宝"
+  }]
+}, {
+  "title": "Q",
+  "items": [{
+    "value": 0,
+    "label": "其他"
+  }, {
+    "value": 14,
+    "label": "奇瑞"
+  }, {
+    "value": 15,
+    "label": "起亚"
+  }, {
+    "value": 36,
+    "label": "庆铃（五十铃）"
+  }, {
+    "value": 104,
+    "label": "启辰"
+  }]
+}, {
+  "title": "R",
+  "items": [{
+    "value": 8,
+    "label": "日产"
+  }, {
+    "value": 16,
+    "label": "荣威"
+  }, {
+    "value": 115,
+    "label": "瑞麟"
+  }]
+}, {
+  "title": "S",
+  "items": [{
+    "value": 17,
+    "label": "三菱"
+  }, {
+    "value": 18,
+    "label": "斯柯达"
+  }, {
+    "value": 32,
+    "label": "斯巴鲁"
+  }, {
+    "value": 54,
+    "label": "上海汇众"
+  }, {
+    "value": 55,
+    "label": "苏州金龙"
+  }, {
+    "value": 73,
+    "label": "时代汽车"
+  }, {
+    "value": 76,
+    "label": "陕汽重卡"
+  }, {
+    "value": 82,
+    "label": "申龙"
+  }, {
+    "value": 124,
+    "label": "双环"
+  }, {
+    "value": 201,
+    "label": "舒驰客车"
+  }]
+}, {
+  "title": "T",
+  "items": [{
+    "value": 119,
+    "label": "唐骏欧铃"
+  }]
+}, {
+  "title": "W",
+  "items": [{
+    "value": 21,
+    "label": "沃尔沃"
+  }, {
+    "value": 30,
+    "label": "五菱"
+  }, {
+    "value": 94,
+    "label": "威麟"
+  }]
+}, {
+  "title": "X",
+  "items": [{
+    "value": 11,
+    "label": "雪佛兰"
+  }, {
+    "value": 12,
+    "label": "雪铁龙"
+  }, {
+    "value": 13,
+    "label": "现代"
+  }, {
+    "value": 40,
+    "label": "夏利"
+  }, {
+    "value": 53,
+    "label": "厦门金龙"
+  }]
+}, {
+  "title": "Y",
+  "items": [{
+    "value": 33,
+    "label": "英伦"
+  }, {
+    "value": 42,
+    "label": "一汽"
+  }, {
+    "value": 43,
+    "label": "依维柯"
+  }, {
+    "value": 45,
+    "label": "一汽奔腾"
+  }, {
+    "value": 57,
+    "label": "宇通"
+  }, {
+    "value": 61,
+    "label": "跃进汽车"
+  }, {
+    "value": 67,
+    "label": "英菲尼迪"
+  }, {
+    "value": 109,
+    "label": "野马"
+  }, {
+    "value": 128,
+    "label": "永源"
+  }]
+}, {
+  "title": "Z",
+  "items": [{
+    "value": 20,
+    "label": "中华"
+  }, {
+    "value": 51,
+    "label": "众泰"
+  }, {
+    "value": 58,
+    "label": "中国重汽"
+  }, {
+    "value": 86,
+    "label": "中通"
+  }, {
+    "value": 110,
+    "label": "中兴"
+  }]
+}]
